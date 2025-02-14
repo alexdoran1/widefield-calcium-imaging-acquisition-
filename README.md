@@ -2,7 +2,7 @@
 
 Github documentation – Synchronized Multi-Cam Image Acquisition with Teledyne FLIR cameras and Python
 
-Summary: This is python code for synchronized image collection for widefield calcium imaging using one Teledyne Prime BSI Scientific CMOS camera and one FLIR Flea3 USB3 camera. This code can be adapted to acquire using two FLIR Flea3 USB3s and the code is available upon request (emp2163@columbia.edu). 
+Summary: This is python code for synchronized image collection for widefield calcium imaging using one Teledyne Prime BSI Scientific CMOS camera and one FLIR Flea3 USB3 camera. This code can be adapted to acquire using two FLIR Flea3 USB3s and the code is available upon request (ard2218@columbia.edu). 
 
 Hardware:  Teledyne Prime BSI Scientific CMOS camera, FLIR Flea3 USB3, Thorlabs blue LED, additional Thorlabs LEDs (we used UV LED) to collect calcium and non-calcium signals, respectively.
 
